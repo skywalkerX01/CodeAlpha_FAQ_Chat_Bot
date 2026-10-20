@@ -92,9 +92,6 @@ CodeAlpha_FAQ_Chat_Bot/
 ├── LICENSE
 ├── README.md
 ├── .gitignore
-└── screenshots/
-    ├── Home.PNG
-    └── MobileView.PNG
 ```
 
 ---
