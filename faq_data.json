@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Hey, Welcome to MobileHub..."
+  },
+  {
+    "question": "What is the name of your shop?",
+    "answer": "We are MobileHub, your trusted mobile and accessories store."
+  },
+  {
+    "question": "What types of mobile phones do you sell?",
+    "answer": "We sell smartphones from brands like Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme, and more."
+  },
+  {
+    "question": "Do you sell feature phones?",
+    "answer": "Yes, we also stock basic feature phones for customers who prefer simple devices."
+  },
+  {
+    "question": "Do you provide warranty on mobiles?",
+    "answer": "Yes. All new mobiles come with manufacturer warranty, usually 1 year."
+  },
+  {
+    "question": "Can I buy accessories here?",
+    "answer": "Yes. We sell chargers, earphones, Bluetooth devices, covers, tempered glass, and other mobile accessories."
+  },
+  {
+    "question": "Do you offer EMI or installment options?",
+    "answer": "Yes. We provide EMI options through major banks and finance partners."
+  },
+  {
+    "question": "Do you accept UPI and card payments?",
+    "answer": "Yes. We accept cash, UPI, debit/credit cards, and net banking."
+  },
+  {
+    "question": "Do you sell refurbished or second-hand phones?",
+    "answer": "Yes. We have certified refurbished phones with warranty."
+  },
+  {
+    "question": "Can I exchange my old phone?",
+    "answer": "Yes. We offer exchange deals where you can trade in your old phone for a new one."
+  },
+  {
+    "question": "Do you provide mobile repair services?",
+    "answer": "Yes. We repair screens, batteries, charging ports, and other hardware/software issues."
+  },
+  {
+    "question": "How long does a repair usually take?",
+    "answer": "Minor repairs take 1–2 hours, while major repairs may take 1–3 days."
+  },
+  {
+    "question": "Do you install screen guards and tempered glass?",
+    "answer": "Yes. We provide professional installation of tempered glass and screen protectors."
+  },
+  {
+    "question": "Do you sell mobile insurance?",
+    "answer": "Yes. We offer mobile insurance covering accidental damage and theft."
+  },
+  {
+    "question": "Can I pre-book upcoming mobile launches?",
+    "answer": "Yes. We accept pre-bookings for upcoming models from major brands."
+  },
+  {
+    "question": "Do you provide home delivery?",
+    "answer": "Yes. We provide local home delivery for purchases."
+  },
+  {
+    "question": "Do you sell tablets and iPads?",
+    "answer": "Yes. We stock tablets and iPads from Apple, Samsung, Lenovo, and other brands."
+  },
+  {
+    "question": "Do you sell smartwatches?",
+    "answer": "Yes. We sell smartwatches from Apple, Samsung, Amazfit, Noise, and more."
+  },
+  {
+    "question": "Do you provide data transfer service?",
+    "answer": "Yes. We help transfer contacts, photos, and apps from your old phone to the new one."
+  },
+  {
+    "question": "Do you provide software updates?",
+    "answer": "Yes. We assist customers in updating their phone software to the latest version."
+  },
+  {
+    "question": "Do you sell memory cards and pen drives?",
+    "answer": "Yes. We stock memory cards, pen drives, and external hard drives."
+  },
+  {
+    "question": "Do you sell Bluetooth speakers?",
+    "answer": "Yes. We sell portable Bluetooth speakers from JBL, Boat, Sony, and more."
+  },
+  {
+    "question": "Do you sell power banks?",
+    "answer": "Yes. We have power banks ranging from 5000mAh to 20000mAh."
+  },
+  {
+    "question": "Do you provide bulk corporate orders?",
+    "answer": "Yes. We handle bulk orders for companies and institutions."
+  },
+  {
+    "question": "Do you provide student discounts?",
+    "answer": "Yes. We offer special discounts for students on selected models."
+  },
+  {
+    "question": "Do you provide festive offers?",
+    "answer": "Yes. We run special offers during Diwali, New Year, and other festivals."
+  },
+  {
+    "question": "Do you provide cashback offers?",
+    "answer": "Yes. We provide cashback offers in collaboration with banks and wallets."
+  },
+  {
+    "question": "Do you sell chargers and cables?",
+    "answer": "Yes. We stock original and certified chargers and cables."
+  },
+  {
+    "question": "Do you sell wireless earphones?",
+    "answer": "Yes. We sell wireless earphones and earbuds from Apple, Samsung, Boat, and more."
+  },
+  {
+    "question": "Do you provide trade-in for accessories?",
+    "answer": "No. We only provide trade-in for mobile phones, not accessories."
+  },
+  {
+    "question": "Do you provide doorstep repair?",
+    "answer": "Yes. For minor issues, we provide doorstep repair services in selected areas."
+  },
+  {
+    "question": "Do you sell SIM cards?",
+    "answer": "Yes. We provide new SIM cards from major telecom operators."
+  },
+  {
+    "question": "Do you help with SIM activation?",
+    "answer": "Yes. We assist with SIM activation and KYC verification."
+  },
+  {
+    "question": "Do you sell mobile covers?",
+    "answer": "Yes. We sell covers for all major phone models."
+  },
+  {
+    "question": "Do you provide buyback guarantee?",
+    "answer": "Yes. Selected phones come with a buyback guarantee."
+  },
+  {
+    "question": "Do you provide extended warranty?",
+    "answer": "Yes. Extended warranty plans are available for most devices."
+  },
+  {
+    "question": "Do you sell VR headsets?",
+    "answer": "Yes. We sell VR headsets compatible with smartphones."
+  },
+  {
+    "question": "Do you provide free installation for accessories?",
+    "answer": "Yes. We provide free installation for screen guards and covers."
+  },
+  {
+    "question": "Do you provide bill and GST invoice?",
+    "answer": "Yes. We provide proper bill and GST invoice for all purchases."
+  },
+  {
+    "question": "Do you provide exchange offers during festivals?",
+    "answer": "Yes. We run special exchange offers during festive seasons."
+  },
+  {
+    "question": "Do you provide online ordering?",
+    "answer": "Yes. You can order through our website or WhatsApp."
+  },
+  {
+    "question": "Do you provide free delivery?",
+    "answer": "Yes. Free delivery is available for orders above a certain amount."
+  },
+  {
+    "question": "Do you provide loyalty rewards?",
+    "answer": "Yes. We have a loyalty program for regular customers."
+  },
+  {
+    "question": "Do you provide corporate gifting solutions?",
+    "answer": "Yes. We provide mobiles and accessories for corporate gifting."
+  },
+  {
+    "question": "Do you provide installment without credit card?",
+    "answer": "Yes. We have finance partners who provide installment options without credit card."
+  },
+  {
+    "question": "Do you provide doorstep demo?",
+    "answer": "Yes. For premium phones, we provide doorstep demo service."
+  },
+  {
+    "question": "Do you provide free mobile setup?",
+    "answer": "Yes. We help set up your new mobile with apps and accounts."
+  },
+  {
+    "question": "Do you provide exchange for tablets?",
+    "answer": "Yes. We provide exchange offers for tablets as well."
+  },
+  {
+    "question": "Do you provide screen replacement warranty?",
+    "answer": "Yes. Some phones come with free screen replacement warranty."
+  },
+  {
+    "question": "Do you provide doorstep pickup for repairs?",
+    "answer": "Yes. We provide doorstep pickup and drop for repair services."
+  }
+]

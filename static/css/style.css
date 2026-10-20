@@ -1,0 +1,101 @@
+:root {
+  --primary: #4f46e5;
+  --secondary: #6366f1;
+  --bg: #f9fafb;
+  --text: #111827;
+  --radius: 18px;
+  --shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: var(--bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  max-width: 700px;
+}
+
+.chat-card {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+}
+
+header {
+  padding: 20px;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.shop-name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.8rem;
+  color: var(--primary);
+}
+
+#chat-box {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.message .bubble {
+  background: #f3f4f6;
+  padding: 14px 18px;
+  border-radius: var(--radius);
+  color: var(--text);
+  max-width: 75%;
+  line-height: 1.5;
+}
+
+.message.user .bubble {
+  background: var(--primary);
+  color: white;
+  align-self: flex-end;
+}
+
+footer {
+  padding: 15px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+
+#user-input {
+  flex: 1;
+  padding: 12px 15px;
+  border: 1px solid #d1d5db;
+  border-radius: var(--radius);
+  font-size: 1rem;
+}
+
+#send-btn {
+  width: 50px;
+  border: none;
+  border-radius: var(--radius);
+  background: var(--primary);
+  color: white;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+#send-btn:hover {
+  background: var(--secondary);
+}
