@@ -101,7 +101,7 @@ CodeAlpha_FAQ_Chat_Bot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aamnah-Basharat/CodeAlpha_FAQ_Chat_Bot
+git https://github.com/skywalkerX01/CodeAlpha_FAQ_Chat_Bot
 .git
 ```
 
